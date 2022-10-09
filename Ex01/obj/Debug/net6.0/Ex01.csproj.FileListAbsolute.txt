@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\bin\Debug\net6.0\Ex01.exe
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\bin\Debug\net6.0\Ex01.deps.json
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\bin\Debug\net6.0\Ex01.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\bin\Debug\net6.0\Ex01.pdb
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.pdb
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+E:\ОБУЧЕНИЕ\C#GB\PERO\Seminar2.2\Project\Ex01\obj\Debug\net6.0\ref\Ex01.dll
